@@ -1,9 +1,10 @@
-body {
+.background-color
+ {
     background-color: #e0ebe8;
     color: #545454;
   }
   
-  hr {
+  #dotdot {
     border-style: dotted;
     border-top: none;
     border-left: none;
@@ -13,7 +14,7 @@ body {
     width: 30%;
   }
   
-  img {
+  img  {
     height: 150px;
   }
   
