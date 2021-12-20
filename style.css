@@ -1,27 +1,38 @@
-.background-color
- {
-    background-color: #e0ebe8;
-    color: #545454;
-  }
-  
-  #dotdot {
-    border-style: dotted;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-width: 7px;
-    border-color: gray;
-    width: 30%;
-  }
-  
-  img  {
+  img {
     height: 150px;
   }
   
+  #id {
+    
+    color: #298797;
+  
+  }
+  
+  .class {
+    
+    color: #bd3a3a;
+  
+  }
+  
+  body {
+    background-color: #a3d1cb;
+      color: #7a7474;
+  
+  }
+  
   h1 {
+  
     color: #1e836c;
   }
   
   h3 {
+   
     color: #1e836c;
   }
+  
+  p {
+  
+    color: #1e836c;
+  }
+  
+  
