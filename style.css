@@ -35,4 +35,8 @@
     color: #1e836c;
   }
   
-  
+  hr{color: #EAEAEA;
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 15px;
+    width: 30%;}
